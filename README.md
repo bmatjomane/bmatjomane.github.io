@@ -1,1 +1,9 @@
-# bmatjomane.github.io
+data-portfolio/
+  README.md
+  projects/
+    01_manufacturing_quality/
+    02_finance_risk_returns/
+    03_marketing_sales_funnel/
+  templates/
+    project_readme_template.md
+    notebook_template.ipynb
